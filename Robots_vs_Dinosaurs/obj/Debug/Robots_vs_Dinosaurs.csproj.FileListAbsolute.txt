@@ -1,0 +1,7 @@
+C:\Users\jonfearnow\source\repos\Robots_vs_Dinosaurs\Robots_vs_Dinosaurs\obj\Debug\Robots_vs_Dinosaurs.csprojAssemblyReference.cache
+C:\Users\jonfearnow\source\repos\Robots_vs_Dinosaurs\Robots_vs_Dinosaurs\obj\Debug\Robots_vs_Dinosaurs.csproj.CoreCompileInputs.cache
+C:\Users\jonfearnow\source\repos\Robots_vs_Dinosaurs\Robots_vs_Dinosaurs\bin\Debug\Robots_vs_Dinosaurs.exe.config
+C:\Users\jonfearnow\source\repos\Robots_vs_Dinosaurs\Robots_vs_Dinosaurs\bin\Debug\Robots_vs_Dinosaurs.exe
+C:\Users\jonfearnow\source\repos\Robots_vs_Dinosaurs\Robots_vs_Dinosaurs\bin\Debug\Robots_vs_Dinosaurs.pdb
+C:\Users\jonfearnow\source\repos\Robots_vs_Dinosaurs\Robots_vs_Dinosaurs\obj\Debug\Robots_vs_Dinosaurs.exe
+C:\Users\jonfearnow\source\repos\Robots_vs_Dinosaurs\Robots_vs_Dinosaurs\obj\Debug\Robots_vs_Dinosaurs.pdb
