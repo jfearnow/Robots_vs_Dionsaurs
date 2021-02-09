@@ -6,31 +6,21 @@ using System.Threading.Tasks;
 
 namespace Robots_vs_Dinosaurs
 {
-    public class Robot
-    {
-        public void Name()
-        {
-            string name = "Choose your name: ";
-            Console.WriteLine(name);
-        }
-        public void Health(int h)
-        {
-            Console.WriteLine(h is);
-        }
-        public void powerLevel()
-            {
-            
-            }
-        public void WeaponChoice() 
-        { 
-        
-        }
+     class Robot
+     {
+        public string name;
+        public int health;
+        public int powerLevel;
+        public string weaponChoice;
+        public int attackPower;
 
-        public void attackPower()
+        public Robot()
         {
-
+            name = "Choose your name: ";
+            health = 100;
+            powerLevel = 100;
+            weaponChoice = "Choose your weapon: ";
+            attackPower = 200;
         }
-
-        
-    }
+     }
 }

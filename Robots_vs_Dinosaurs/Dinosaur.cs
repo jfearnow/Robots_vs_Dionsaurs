@@ -13,5 +13,13 @@ namespace Robots_vs_Dinosaurs
         public int energy;
         public int attackPower;
 
+        public Dinosaur()
+        {
+            type = "Dinosaur";
+            health = 100;
+            energy = 100;
+            attackPower = 200;
+        }
+
     }
 }

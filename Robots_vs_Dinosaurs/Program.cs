@@ -10,7 +10,18 @@ namespace Robots_vs_Dinosaurs
     {
         static void Main(string[] args)
         {
+            Robot thisIsMyRobot = new Robot();
 
+            Console.WriteLine(thisIsMyRobot.name);
+
+            Dinosaur thisIsMyDinosaur = new Dinosaur();
+
+            Console.WriteLine(thisIsMyDinosaur.type);
+
+            Weapon thisIsMyWeapon = new Weapon();
+            Console.WriteLine(thisIsMyWeapon.weaponType);
         }
+            
+
     }
 }
