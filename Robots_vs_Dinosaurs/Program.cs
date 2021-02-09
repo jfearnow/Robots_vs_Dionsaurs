@@ -10,13 +10,15 @@ namespace Robots_vs_Dinosaurs
     {
         static void Main(string[] args)
         {
-            Robot thisIsMyRobot = new Robot();
+            Herd thisIsMyHerd = new Herd();
+            Console.WriteLine();
 
-            Console.WriteLine(thisIsMyRobot.name);
+            Fleet thisIsMyFleet = new Fleet();
+            Console.WriteLine();
 
-            Dinosaur thisIsMyDinosaur = new Dinosaur();
+           
 
-            Console.WriteLine(thisIsMyDinosaur.type);
+            
 
             Weapon thisIsMyWeapon = new Weapon();
             Console.WriteLine(thisIsMyWeapon.weaponType);

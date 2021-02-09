@@ -11,16 +11,14 @@ namespace Robots_vs_Dinosaurs
         public string name;
         public int health;
         public int powerLevel;
-        public string weaponChoice;
-        public int attackPower;
+       
 
         public Robot()
         {
-            name = "Choose your name: ";
+            name = "";
             health = 100;
             powerLevel = 100;
-            weaponChoice = "Choose your weapon: ";
-            attackPower = 200;
+            
         }
      }
 }

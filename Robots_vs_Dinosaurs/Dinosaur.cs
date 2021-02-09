@@ -11,14 +11,14 @@ namespace Robots_vs_Dinosaurs
         public string type;
         public int health;
         public int energy;
-        public int attackPower;
+
 
         public Dinosaur()
         {
-            type = "Dinosaur";
+            type = "";
             health = 100;
             energy = 100;
-            attackPower = 200;
+            
         }
 
     }

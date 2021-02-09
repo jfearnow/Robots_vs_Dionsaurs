@@ -8,5 +8,13 @@ namespace Robots_vs_Dinosaurs
 {
     class Fleet
     {
+        List<Robot> robotList = new List<Robot>();
+
+
+
+
+
+        Robot thisIsMyRobot = new Robot();
+
     }
 }
