@@ -8,5 +8,22 @@ namespace Robots_vs_Dinosaurs
 {
     class Dinosaur
     {
+        public void type()
+        {
+
+        }
+        public void health()
+        {
+
+        }
+
+        public void energyLevel()
+        {
+
+        }
+        public void attackPower()
+        {
+
+        }
     }
 }

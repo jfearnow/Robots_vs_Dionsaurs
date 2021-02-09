@@ -13,6 +13,24 @@ namespace Robots_vs_Dinosaurs
             string name = "Choose your name: ";
             Console.WriteLine(name);
         }
+        public void Health(int h)
+        {
+            Console.WriteLine(h is);
+        }
+        public void powerLevel()
+            {
+            
+            }
+        public void WeaponChoice() 
+        { 
+        
+        }
+
+        public void attackPower()
+        {
+
+        }
+
         
     }
 }
